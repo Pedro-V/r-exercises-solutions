@@ -6,7 +6,7 @@ Soluções para alguns exercícios/katas em `R 4.2.1`.
 * `beecrowd`são os exercícios do [Beecrowd](https://www.beecrowd.com.br/judge/en/categories).
 * `code-abbey` são os exercícios do [Code Abbey](https://www.codeabbey.com/index/task_list?sort=id1).
 * `codewars` são os exercícios do [CodeWars](https://www.codewars.com/kata/latest/?q=&beta=false).
-* `edabit` são os exercícios do [Edabit](edabit.com).
+* `edabit` são os exercícios do [Edabit](https://edabit.com).
 * `exercism` são os exercícios do [Exercism](https://exercism.org/tracks/r).
 * `g4g` são os exercícios do [Geeks4Geeks](https://practice.geeksforgeeks.org/explore?page=1&sortBy=submissions).
 * `hackerrank` são os exercícios do [Hacker Rank](https://www.hackerrank.com/dashboard).
