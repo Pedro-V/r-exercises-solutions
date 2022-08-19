@@ -14,4 +14,4 @@ Soluções para alguns exercícios/katas em `R 4.2.1`.
 
 Cada exercício contem o ID ou nome do exercício associado com aquele site.
 
-Vários desses exercícios não são apenas exclusivos de uma linguagem. Ex: nesse repositório de R, os exercícios do `exercism` da linguage R são apenas 35. Apesar disso, exercícios de outras linguagens (ex: Java) também são feitos aqui.
+Vários desses exercícios não são apenas exclusivos de uma linguagem. Ex: Os exercícios do `exercism` da linguagem R são apenas 35. Apesar disso, exercícios de outras linguagens (ex: Java) também são feitos aqui.
