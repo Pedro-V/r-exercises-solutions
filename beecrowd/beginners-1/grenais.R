@@ -2,7 +2,6 @@
 # Escrever um programa que vai recebendo input de grenais
 # e retorna um sumário simples
 
-library(glue)
 resultados <- c(0, 0, 0)
 count_grenais <- 0
 
