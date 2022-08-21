@@ -1,5 +1,7 @@
 # Exercícios em R
 
+*80% practice, 20% theory*
+
 Soluções para alguns exercícios/katas em `R 4.2.1`.
 
 * `advent-of-code` são os exercícios do [Advent of Code](https://adventofcode.com/). Esse diretório é subdividido entre os anos.
