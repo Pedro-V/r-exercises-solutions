@@ -49,10 +49,9 @@ coord_to_string <- function(coord){
 # dado uma coordenada que não varia, uma coordenada que varia
 # em seu estado inicial e depois em seu estado final,
 # retornar os estados intermediários dessa coordenada
-#ex f(2, -3, 0) -> "2 -2" "2 -1" "2 0"
+#ex vector_intermed_coords(2, -3, 0) -> "2 -2" "2 -1" "2 0"
 vector_intermed_coords <- function(eixo_invariante, invariante, estado_inicial,
                                    estado_final){
-  #browser()
   resultado <- c()
   temp <- estado_inicial
   while(temp != estado_final){
